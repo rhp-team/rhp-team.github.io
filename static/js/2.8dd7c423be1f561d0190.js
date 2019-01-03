@@ -1,0 +1,2 @@
+webpackJsonp([2],{ZHUJ:function(t,n,e){"use strict";var r={render:function(){var t=this.$createElement;return(this._self._c||t)("h1",[this._v("Edit quiz")])},staticRenderFns:[]};n.a=r},lN2o:function(t,n){},t214:function(t,n){},uJhw:function(t,n,e){"use strict";Object.defineProperty(n,"__esModule",{value:!0});var r=e("t214"),u=e.n(r);for(var i in r)"default"!==i&&function(t){e.d(n,t,function(){return r[t]})}(i);var a=e("ZHUJ");var c=function(t){e("lN2o")},o=e("VU/8")(u.a,a.a,!1,c,null,null);n.default=o.exports}});
+//# sourceMappingURL=2.8dd7c423be1f561d0190.js.map
